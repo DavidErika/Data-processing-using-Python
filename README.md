@@ -12,6 +12,7 @@ This project focuses on analyzing and visualizing the **US annual "County Health
 ##Technologies Used
 
 -Python 3.11.9
+
 -Jupyter Notebook
 
 ###Libraries
@@ -19,6 +20,9 @@ This project focuses on analyzing and visualizing the **US annual "County Health
 To run this project you must install and use the following python libraries.
 
 -import pandas as pd
+
 -from pandas import Series, DataFrame
+
 -from scipy import stats
+
 -import statsmodels.api as sm
