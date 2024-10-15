@@ -13,7 +13,7 @@ This project focuses on analyzing and visualizing the **US annual "County Health
 
 -Python 3.11.9
 
--Jupyter Notebook
+-Jupyter Notebook or Visual Studio Code as an alternative
 
 ### Libraries
 
